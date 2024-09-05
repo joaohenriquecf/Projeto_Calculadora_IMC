@@ -1,0 +1,6 @@
+
+
+Nome: pedro, Peso: 40, Altura: 1.30, Resultado: 23.67
+Nome: juliano, Peso: 40, Altura: 1.60, Resultado: ---
+Nome: pietra, Peso: 40, Altura: 1.40, Resultado: 23.67
+Nome: caua, Peso: 82, Altura: 1.80, Resultado: 25.31
